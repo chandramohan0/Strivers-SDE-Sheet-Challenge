@@ -77,3 +77,36 @@
 | 40   | Linked List and Arrays    | [Trapping Rain Water](https://www.codingninjas.com/codestudio/problems/trapping-rain-water_8230693?challengeSlug=striver-sde-challenge) | Solution  |
 | 41   | Linked List and Arrays    | [Remove Duplicates from Sorted Array](https://www.codingninjas.com/codestudio/challenges/striver-sde-challenge?activeProblems=true) | Solution  |
 | 42   | Linked List and Arrays   | [Maximum Consecutive Ones](https://www.codingninjas.com/codestudio/problems/maximum-consecutive-ones_8230736?challengeSlug=striver-sde-challenge) | Solution |
+
+## DAY 08
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 43    | Greedy Algorithm    | [Maximum meetings](https://www.codingninjas.com/codestudio/problems/maximum-meetings_8230795?challengeSlug=striver-sde-challenge) | Solution  |
+| 44    | Greedy Algorithm    | [Minimum Number of Platforms](https://www.codingninjas.com/codestudio/problems/minimum-number-of-platforms_8230720?challengeSlug=striver-sde-challenge) | Solution  |
+| 45    | Greedy Algorithm    | [Job Sequencing Problem](https://www.codingninjas.com/codestudio/problems/job-sequencing-problem_8230832?challengeSlug=striver-sde-challenge) | Solution  |
+| 46   | Greedy Algorithm    | [Fractional Knapsack](https://www.codingninjas.com/codestudio/problems/fractional-knapsack_8230767?challengeSlug=striver-sde-challenge) | Solution  |
+| 47    | Greedy Algorithm    | [Find Minimum Number Of Coins](https://www.codingninjas.com/codestudio/problems/find-minimum-number-of-coins_8230766?challengeSlug=striver-sde-challenge) | Solution  |
+| 48   | Greedy Algorithm    | [Maximum activities](https://www.codingninjas.com/codestudio/problems/maximum-activities_8230800?challengeSlug=striver-sde-challenge) | Solution |
+
+## DAY 09
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 49    | Recursion    | [Subset Sum](https://www.codingninjas.com/codestudio/problems/subset-sum_8230859?challengeSlug=striver-sde-challenge) | Solution  |
+| 50   | Recursion    | [Subsets II](https://www.codingninjas.com/codestudio/problems/subsets-ii_8230855?challengeSlug=striver-sde-challenge) | Solution  |
+| 51   | Recursion    | [Return Subsets Sum to K](https://www.codingninjas.com/codestudio/problems/return-subsets-sum-to-k_8230706?challengeSlug=striver-sde-challenge) | Solution  |
+| 52   | Recursion    | [Combination Sum II](https://www.codingninjas.com/codestudio/problems/combination-sum-ii_8230820?challengeSlug=striver-sde-challenge) | Solution  |
+| 53   | Recursion    | [Palindrome Partitioning](https://www.codingninjas.com/codestudio/problems/palindrome-partitioning_8230726?challengeSlug=striver-sde-challenge) | Solution  |
+| 54   | Recursion    | [K-th Permutation Sequence](https://www.codingninjas.com/codestudio/problems/k-th-permutation-sequence_8230822?challengeSlug=striver-sde-challenge) | Solution |
+
+## DAY 10
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 55    | Recursion and Backtracking    | [Print Permutations - String](https://www.codingninjas.com/codestudio/problems/day-13-print-permutations-string_8230703?challengeSlug=striver-sde-challenge) | Solution  |
+| 56   | Recursion and Backtracking    | [N Queens](https://www.codingninjas.com/codestudio/problems/n-queens_8230707?challengeSlug=striver-sde-challenge) | Solution  |
+| 57   | Recursion and Backtracking    | [Valid Sudoku](https://www.codingninjas.com/codestudio/problems/valid-sudoku_8230704?challengeSlug=striver-sde-challenge) | Solution  |
+| 58   | Recursion and Backtracking    | [M-Coloring Problem](https://www.codingninjas.com/codestudio/problems/m-coloring-problem_8230777?challengeSlug=striver-sde-challenge) | Solution  |
+| 59   | Recursion and Backtracking    | [Rat In a Maze All Paths](https://www.codingninjas.com/codestudio/problems/rat-in-a-maze-all-paths_8230705?challengeSlug=striver-sde-challenge) | Solution  |
+| 60   | Recursion and Backtracking    | [Word Break II](https://www.codingninjas.com/codestudio/problems/word-break-ii_8230786?challengeSlug=striver-sde-challenge) | Solution |
