@@ -269,3 +269,30 @@
 | 151   | Binary Trees[Miscellaneous]    | [Kth largest element in the unsorted array](https://www.codingninjas.com/codestudio/problems/kth-largest-element-in-the-unsorted-array_8230740?challengeSlug=striver-sde-challenge) | Solution  |
 | 152    | Binary Trees[Miscellaneous]    | [Flood Fill Algorithm](https://www.codingninjas.com/codestudio/problems/flood-fill-algorithm_8230806?challengeSlug=striver-sde-challenge) | Solution |
 
+## DAY 23
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 153    | Graph    | [Clone Graph](https://www.codingninjas.com/codestudio/problems/clone-graph_8230812?challengeSlug=striver-sde-challenge) | Solution  |
+| 154    | Graph    | [DFS Traversal](https://www.codingninjas.com/codestudio/problems/dfs-traversal_8230690?challengeSlug=striver-sde-challenge) | Solution  |
+| 155    | Graph    | [BFS in Graph](https://www.codingninjas.com/codestudio/problems/bfs-in-graph_8230763?challengeSlug=striver-sde-challenge) | Solution  |
+| 156    | Graph    | [Cycle Detection In Undirected Graph using DFS](https://www.codingninjas.com/codestudio/problems/1062670?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | Solution  |
+| 157   | Binary Tree    | [Cycle Detection In Undirected Graph using BFS](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Solution  |
+| 158    | Graph    | [Detect Cycle In A Directed Graph using dFS](https://www.codingninjas.com/codestudio/problems/detect-cycle-in-a-directed-graph_8230794?challengeSlug=striver-sde-challenge) | Solution |
+| 159    | Graph    | [Detect Cycle In A Directed Graph using BFS](https://www.codingninjas.com/codestudio/problems/1062626?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | Solution |
+| 160   | Graph    | [Topological Sort BFS](https://www.codingninjas.com/codestudio/problems/topological-sort_8230784?challengeSlug=striver-sde-challenge) | Solution  |
+| 161    | Graph    | [Topological Sort DFS](https://www.codingninjas.com/codestudio/problems/982938?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | Solution  |
+| 162    | Graph    | [Find Number Of Islands](https://www.codingninjas.com/codestudio/problems/find-number-of-islands_8230692?challengeSlug=striver-sde-challenge) | Solution  |
+| 163    | Graph    | [Check Bipartite Graph using BFS](https://www.codingninjas.com/codestudio/problems/check-bipartite-graph_8230761?challengeSlug=striver-sde-challenge) | Solution  |
+| 164   | Graph    | [Check Bipartite Graph using DFS](https://www.codingninjas.com/codestudio/problems/920551?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | Solution  |
+
+## DAY 24
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 165    | Graph    | [Strongly Connected Components (Tarjan’s Algorithm)](https://www.codingninjas.com/codestudio/problems/strongly-connected-components-tarjan-s-algorithm_8230789?challengeSlug=striver-sde-challenge) | Solution  |
+| 166    | Graph    | [Dijkstra's shortest path](https://www.codingninjas.com/codestudio/problems/dijkstra-s-shortest-path_8230755?challengeSlug=striver-sde-challenge) | Solution  |
+| 167    | Graph    | [Bellman Ford](https://www.codingninjas.com/codestudio/problems/bellman-ford_8230845?challengeSlug=striver-sde-challenge) | Solution  |
+| 168    | Graph    | [Floyd Warshall](https://www.codingninjas.com/codestudio/problems/floyd-warshall_8230846?challengeSlug=striver-sde-challenge) | Solution  |
+| 169   | Graph    | [Prim's MST](https://www.codingninjas.com/codestudio/problems/prim-s-mst_8230809?challengeSlug=striver-sde-challenge) | Solution  |
+| 170    | Graph    | [Kruskal’s Minimum Spanning Tree Algorithm](https://www.codingninjas.com/codestudio/problems/kruskal-s-minimum-spanning-tree-algorithm_8230804?challengeSlug=striver-sde-challenge) | Solution |
