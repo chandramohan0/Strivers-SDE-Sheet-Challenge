@@ -296,3 +296,41 @@
 | 168    | Graph    | [Floyd Warshall](https://www.codingninjas.com/codestudio/problems/floyd-warshall_8230846?challengeSlug=striver-sde-challenge) | Solution  |
 | 169   | Graph    | [Prim's MST](https://www.codingninjas.com/codestudio/problems/prim-s-mst_8230809?challengeSlug=striver-sde-challenge) | Solution  |
 | 170    | Graph    | [Kruskal’s Minimum Spanning Tree Algorithm](https://www.codingninjas.com/codestudio/problems/kruskal-s-minimum-spanning-tree-algorithm_8230804?challengeSlug=striver-sde-challenge) | Solution |
+
+## DAY 25
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 171    |  Dynamic Programming    | [Maximum Product Subarray](https://www.codingninjas.com/codestudio/problems/maximum-product-subarray_8230828?challengeSlug=striver-sde-challenge) | Solution  |
+| 172    |  Dynamic Programming    | [Longest Increasing Subsequence](https://www.codingninjas.com/codestudio/problems/longest-increasing-subsequence_8230689?challengeSlug=striver-sde-challenge) | Solution  |
+| 173    |  Dynamic Programming    | [Longest Common Subsequence](https://www.codingninjas.com/codestudio/problems/longest-common-subsequence_8230681?challengeSlug=striver-sde-challenge) | Solution  |
+| 174    |  Dynamic Programming    | [0 1 Knapsack](https://www.codingninjas.com/codestudio/problems/0-1-knapsack_8230801?challengeSlug=striver-sde-challenge) | Solution  |
+| 175   |  Dynamic Programming    | [Edit Distance](https://www.codingninjas.com/codestudio/problems/edit-distance_8230685?challengeSlug=striver-sde-challenge) | Solution  |
+| 176    |  Dynamic Programming    | [Maximum Sum Increasing Subsequence](https://www.codingninjas.com/codestudio/problems/maximum-sum-increasing-subsequence_8230821?challengeSlug=striver-sde-challenge) | Solution |
+| 177   |  Dynamic Programming    | [Matrix Chain Multiplication](https://www.codingninjas.com/codestudio/problems/matrix-chain-multiplication_8230769?challengeSlug=striver-sde-challenge) | Solution  |
+
+## DAY 26
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 178    |  Dynamic Programming    | [Minimum Path Sum](https://www.codingninjas.com/codestudio/problems/minimum-path-sum_8230791?challengeSlug=striver-sde-challenge) | Solution  |
+| 179    |  Dynamic Programming    | [Ways To Make Coin Change](https://www.codingninjas.com/codestudio/problems/ways-to-make-coin-change_8230691?challengeSlug=striver-sde-challenge) | Solution  |
+| 180    |  Dynamic Programming    | [Subset Sum Equal To K](https://www.codingninjas.com/codestudio/problems/subset-sum-equal-to-k_8230844?challengeSlug=striver-sde-challenge) | Solution  |
+| 181    |  Dynamic Programming    | [Rod cutting problem](https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_8230727?challengeSlug=striver-sde-challenge) | Solution  |
+| 182   |  Dynamic Programming    | [Cut Logs](https://www.codingninjas.com/codestudio/problems/cut-logs_8230782?challengeSlug=striver-sde-challenge) | Solution  |
+| 183    |  Dynamic Programming    | [Word Break](https://www.codingninjas.com/codestudio/problems/word-break_8230808?challengeSlug=striver-sde-challenge) | Solution |
+| 184   |  Dynamic Programming    | [Palindrome Partitioning ll](https://www.codingninjas.com/codestudio/problems/palindrome-partitioning-ll_8230732?challengeSlug=striver-sde-challenge) | Solution  |
+| 185   |  Dynamic Programming    | [Job Sequencing Problem](https://www.codingninjas.com/codestudio/problems/job-sequencing-problem_1169460?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | Solution  |
+
+## DAY 27
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 186    | Trie    | [Implement Trie](https://www.codingninjas.com/codestudio/problems/implement-trie_8230696?challengeSlug=striver-sde-challenge) | Solution  |
+| 187    | Trie    | [Implement Trie ll](https://www.codingninjas.com/codestudio/problems/implement-trie-ll_8230840?challengeSlug=striver-sde-challenge) | Solution  |
+| 188    | Trie    | [Complete String](https://www.codingninjas.com/codestudio/problems/complete-string_8230849?challengeSlug=striver-sde-challenge) | Solution  |
+| 189    | Trie    | [Number Of Distinct Substring](https://www.codingninjas.com/codestudio/problems/number-of-distinct-substring_8230842?challengeSlug=striver-sde-challenge) | Solution  |
+| 190   | Trie    | [Power Set](https://www.codingninjas.com/codestudio/problems/power-set_8230797?challengeSlug=striver-sde-challenge) | Solution  |
+| 191    | Trie    | [Maximum XOR of Two Numbers in an Array](https://www.codingninjas.com/codestudio/problems/maximum-xor-of-two-numbers-in-an-array_8230852?challengeSlug=striver-sde-challenge) | Solution |
+| 192   | Trie    | [Maximum XOR With an Element From Array](https://www.codingninjas.com/codestudio/problems/maximum-xor-with-an-element-from-array_8230839?challengeSlug=striver-sde-challenge) | Solution  |
+
