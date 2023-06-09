@@ -110,3 +110,67 @@
 | 58   | Recursion and Backtracking    | [M-Coloring Problem](https://www.codingninjas.com/codestudio/problems/m-coloring-problem_8230777?challengeSlug=striver-sde-challenge) | Solution  |
 | 59   | Recursion and Backtracking    | [Rat In a Maze All Paths](https://www.codingninjas.com/codestudio/problems/rat-in-a-maze-all-paths_8230705?challengeSlug=striver-sde-challenge) | Solution  |
 | 60   | Recursion and Backtracking    | [Word Break II](https://www.codingninjas.com/codestudio/problems/word-break-ii_8230786?challengeSlug=striver-sde-challenge) | Solution |
+
+## DAY 11
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 61    | Binary Search    | [Find Nth Root Of M](https://www.codingninjas.com/codestudio/problems/find-nth-root-of-m_8230799?challengeSlug=striver-sde-challenge) | Solution  |
+| 62    | Binary Search    | [Matrix Median](https://www.codingninjas.com/codestudio/problems/matrix-median_8230735?challengeSlug=striver-sde-challenge) | Solution  |
+| 63    | Binary Search    | [Single Element in a Sorted Array](https://www.codingninjas.com/codestudio/problems/single-element-in-a-sorted-array_8230826?challengeSlug=striver-sde-challenge) | Solution  |
+| 64    | Binary Search    | [Search In Rotated Sorted Array](https://www.codingninjas.com/codestudio/problems/search-in-rotated-sorted-array_8230687?challengeSlug=striver-sde-challenge) | Solution  |
+| 65    | Binary Search    | [Median of two sorted arrays](https://www.codingninjas.com/codestudio/problems/median-of-two-sorted-arrays_8230788?challengeSlug=striver-sde-challenge) | Solution  |
+| 66    | Binary Search    | [Kth Element of Two Sorted Arrays](https://www.codingninjas.com/codestudio/problems/kth-element-of-two-sorted-arrays_8230824?challengeSlug=striver-sde-challenge) | Solution |
+| 67    | Binary Search    | [Allocate Books](https://www.codingninjas.com/codestudio/problems/allocate-books_8230810?challengeSlug=striver-sde-challenge) | Solution |
+| 68    | Binary Search    | [Chess Tournament](https://www.codingninjas.com/codestudio/problems/chess-tournament_8230779?challengeSlug=striver-sde-challenge) | Solution |
+
+
+## DAY 12
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 69    | Heaps    | [Min Heap](https://www.codingninjas.com/codestudio/problems/min-heap_8230863?challengeSlug=striver-sde-challenge) | Solution  |
+| 70    | Heaps    | [Kth Smallest and Largest Element of Array](https://www.codingninjas.com/codestudio/problems/kth-smallest-and-largest-element-of-array_8230829?challengeSlug=striver-sde-challenge) | Solution  |
+| 71    | Heaps    | [K Max Sum Combinations](https://www.codingninjas.com/codestudio/problems/day-29-k-max-sum-combinations_8230768?challengeSlug=striver-sde-challenge) | Solution  |
+| 72    | Heaps    | [Running Median](https://www.codingninjas.com/codestudio/problems/running-median_8230682?challengeSlug=striver-sde-challenge) | Solution  |
+| 73    | Heaps    | [Merge K Sorted Arrays](https://www.codingninjas.com/codestudio/problems/merge-k-sorted-arrays_8230770?challengeSlug=striver-sde-challenge) | Solution  |
+| 74    | Heaps    | [K Most Frequent Elements](https://www.codingninjas.com/codestudio/problems/k-most-frequent-elements_8230853?challengeSlug=striver-sde-challenge) | Solution |
+
+## DAY 13
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 75    | Stack and Queue    | [Stack Implementation Using Array](https://www.codingninjas.com/codestudio/problems/stack-implementation-using-array_8230854?challengeSlug=striver-sde-challenge) | Solution  |
+| 76    | Stack and Queue    | [Implement a Queue](https://www.codingninjas.com/codestudio/problems/implement-a-queue_8230848?challengeSlug=striver-sde-challenge) | Solution  |
+| 77    | Stack and Queue    | [Stack using queue](https://www.codingninjas.com/codestudio/problems/stack-using-queue_8230715?challengeSlug=striver-sde-challenge) | Solution  |
+| 78    | Stack and Queue    | [Queue Using Stack](https://www.codingninjas.com/codestudio/problems/day-25-queue-using-stack_8230722?challengeSlug=striver-sde-challenge) | Solution  |
+| 79    | Stack and Queue    | [Valid Parentheses](https://www.codingninjas.com/codestudio/problems/valid-parentheses_8230714?challengeSlug=striver-sde-challenge) | Solution  |
+| 80    | Stack and Queue    | [Next Greater Element](https://www.codingninjas.com/codestudio/problems/next-greater-element_8230718?challengeSlug=striver-sde-challenge) | Solution |
+| 81    | Stack and Queue    | [Sort a Stack](https://www.codingninjas.com/codestudio/problems/sort-a-stack_8230787?challengeSlug=striver-sde-challenge) | Solution |
+
+## DAY 14
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 82    | Stack and Queue    | [Next Smaller Element](https://www.codingninjas.com/codestudio/problems/next-smaller-element_8230814?challengeSlug=striver-sde-challenge) | Solution  |
+| 83    | Stack and Queue    | [LRU Cache Implementation](https://www.codingninjas.com/codestudio/problems/lru-cache-implementation_8230697?challengeSlug=striver-sde-challenge) | Solution  |
+| 84    | Stack and Queue    | [LFU Cache](https://www.codingninjas.com/codestudio/problems/lfu-cache_8230851?challengeSlug=striver-sde-challenge) | Solution  |
+| 85    | Stack and Queue    | [Largest rectangle in a histogram](https://www.codingninjas.com/codestudio/problems/largest-rectangle-in-a-histogram_8230792?challengeSlug=striver-sde-challenge) | Solution  |
+| 86    | Stack and Queue    | [Maximum In Sliding Windows Of Size K](https://www.codingninjas.com/codestudio/problems/maximum-in-sliding-windows-of-size-k_8230772?challengeSlug=striver-sde-challenge) | Solution  |
+| 87    | Stack and Queue    | [Min Stack](https://www.codingninjas.com/codestudio/problems/min-stack_8230861?challengeSlug=striver-sde-challenge) | Solution |
+| 89    | Stack and Queue    | [Rotting Oranges](https://www.codingninjas.com/codestudio/problems/rotting-oranges_8230701?challengeSlug=striver-sde-challenge) | Solution |
+| 90    | Stack and Queue    | [Online Stock Span](https://www.codingninjas.com/codestudio/problems/online-stock-span_8230843?challengeSlug=striver-sde-challenge) | Solution |
+| 91    | Stack and Queue    | [Maximum of minimum for every window size](https://www.codingninjas.com/codestudio/problems/maximum-of-minimum-for-every-window-size_8230783?challengeSlug=striver-sde-challenge) | Solution |
+| 92    | Stack and Queue    | [The Celebrity Problem](https://www.codingninjas.com/codestudio/problems/the-celebrity-problem_8230781?challengeSlug=striver-sde-challenge) | Solution |
+
+
+## DAY 15
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 93    | String    | [Reverse Words In A String](https://www.codingninjas.com/codestudio/problems/reverse-words-in-a-string_8230698?challengeSlug=striver-sde-challenge) | Solution  |
+| 94    | String    | [Longest Palindromic Substring](https://www.codingninjas.com/codestudio/problems/day-12-longest-palindromic-substring_8230702?challengeSlug=striver-sde-challenge) | Solution  |
+| 95    | String    | [Roman Numeral To Integer](https://www.codingninjas.com/codestudio/problems/roman-numeral-to-integer_8230780?challengeSlug=striver-sde-challenge) | Solution  |
+| 96    | String    | [Implement Atoi Function](https://www.codingninjas.com/codestudio/problems/implement-atoi-function_8230776?challengeSlug=striver-sde-challenge) | Solution  |
+| 97    | String    | [Longest Common Prefix](https://www.codingninjas.com/codestudio/problems/longest-common-prefix_8230847?challengeSlug=striver-sde-challenge) | Solution  |
+| 98    | String    | [Rabin Carp](https://www.codingninjas.com/codestudio/problems/rabin-carp_8230831?challengeSlug=striver-sde-challenge) | Solution |
