@@ -216,7 +216,7 @@
 | 121   | Binary Tree    | [LCA Of Binary Tree](https://www.codingninjas.com/codestudio/problems/lca-of-binary-tree_8230760?challengeSlug=striver-sde-challenge) | Solution  |
 | 122    | Binary Tree    | [Check Identical Trees](https://www.codingninjas.com/codestudio/problems/check-identical-trees_8230719?challengeSlug=striver-sde-challenge) | Solution |
 | 123   | Binary Tree    | [Binary Tree Zigzag Traversal](https://www.codingninjas.com/codestudio/problems/binary-tree-zigzag-traversal_8230796?challengeSlug=striver-sde-challenge) | Solution  |
-| 124    | SBinary Tree    | [Boundary Traversal of Binary Tree](https://www.codingninjas.com/codestudio/problems/boundary-traversal-of-binary-tree_8230712?challengeSlug=striver-sde-challenge) | Solution |
+| 124    | Binary Tree    | [Boundary Traversal of Binary Tree](https://www.codingninjas.com/codestudio/problems/boundary-traversal-of-binary-tree_8230712?challengeSlug=striver-sde-challenge) | Solution |
 
 
 ## DAY 19
