@@ -334,3 +334,18 @@
 | 191    | Trie    | [Maximum XOR of Two Numbers in an Array](https://www.codingninjas.com/codestudio/problems/maximum-xor-of-two-numbers-in-an-array_8230852?challengeSlug=striver-sde-challenge) | Solution |
 | 192   | Trie    | [Maximum XOR With an Element From Array](https://www.codingninjas.com/codestudio/problems/maximum-xor-with-an-element-from-array_8230839?challengeSlug=striver-sde-challenge) | Solution  |
 
+## DAY 28 : OOPS
+
+## DAY 29 : OPERATING SYSTEM
+
+## DAY 30 : DBMS
+
+## DAY 31 : COMPUTER NETWORKS
+
+## DAY 32 : SYSTEM DESIGN BASICS
+
+## DAY 33 : PROJECT OVERVIEW
+
+## DAY 34 : RESUME OVERVIEW
+
+## DAY 35: READY FOR INTERVIEW
