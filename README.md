@@ -174,3 +174,98 @@
 | 96    | String    | [Implement Atoi Function](https://www.codingninjas.com/codestudio/problems/implement-atoi-function_8230776?challengeSlug=striver-sde-challenge) | Solution  |
 | 97    | String    | [Longest Common Prefix](https://www.codingninjas.com/codestudio/problems/longest-common-prefix_8230847?challengeSlug=striver-sde-challenge) | Solution  |
 | 98    | String    | [Rabin Carp](https://www.codingninjas.com/codestudio/problems/rabin-carp_8230831?challengeSlug=striver-sde-challenge) | Solution |
+
+
+## DAY 16
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 99    | String    | [Z Algorithm](https://www.codingninjas.com/codestudio/problems/z-algorithm_8230818?challengeSlug=striver-sde-challenge) | Solution  |
+| 100    | String    | [Find Pattern in String - KMP Algorithm](https://www.codingninjas.com/codestudio/problems/find-pattern-in-string-kmp-algorithm_8230819?challengeSlug=striver-sde-challenge) | Solution  |
+| 101    | String    | [Minimum Characters For Palindrome](https://www.codingninjas.com/codestudio/problems/minimum-characters-for-palindrome_8230737?challengeSlug=striver-sde-challenge) | Solution  |
+| 102    | String    | [Check Permutation](https://www.codingninjas.com/codestudio/problems/check-permutation_8230834?challengeSlug=striver-sde-challenge) | Solution  |
+| 103   | String    | [Count And Say](https://www.codingninjas.com/codestudio/problems/count-and-say_8230807?challengeSlug=striver-sde-challenge) | Solution  |
+| 104    | String    | [Compare Version Numbers](https://www.codingninjas.com/codestudio/problems/compare-version-numbers_8230793?challengeSlug=striver-sde-challenge) | Solution |
+
+## DAY 17
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 105    | Binary Tree    | [Inorder Traversal](https://www.codingninjas.com/codestudio/problems/inorder-traversal_8230857?challengeSlug=striver-sde-challenge) | Solution  |
+| 106    | Binary Tree    | [Preorder Traversal](https://www.codingninjas.com/codestudio/problems/preorder-traversal_8230856?challengeSlug=striver-sde-challenge) | Solution  |
+| 107    | Binary Tree    | [Postorder Traversal](https://www.codingninjas.com/codestudio/problems/postorder-traversal_8230858?challengeSlug=striver-sde-challenge) | Solution  |
+| 108    | Binary Tree    | [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Solution  |
+| 109   | Binary Tree    | [Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Solution  |
+| 110    | Binary Tree    | [Left View Of a Binary Tree](https://www.codingninjas.com/codestudio/problems/left-view-of-a-binary-tree_8230757?challengeSlug=striver-sde-challenge) | Solution |
+| 111   | Binary Tree    | [Bottom View Of Binary Tree](https://www.codingninjas.com/codestudio/problems/bottom-view-of-binary-tree_8230745?challengeSlug=striver-sde-challenge) | Solution  |
+| 112    | Binary Tree    | [Top View Of Binary Tree](https://www.codingninjas.com/codestudio/problems/top-view-of-binary-tree_8230721?challengeSlug=striver-sde-challenge) | Solution  |
+| 113    | Binary Tree    | [Tree Traversals](https://www.codingninjas.com/codestudio/problems/tree-traversals_8230775?challengeSlug=striver-sde-challenge) | Solution  |
+| 114    | Binary Tree    | [Vertical Order Traversal](https://www.codingninjas.com/codestudio/problems/vertical-order-traversal_8230758?challengeSlug=striver-sde-challenge) | Solution  |
+| 115   | Binary Tree    | [Path In A Tree](https://www.codingninjas.com/codestudio/problems/path-in-a-tree_8230860?challengeSlug=striver-sde-challenge) | Solution  |
+| 116    | Binary Tree    | [Maximum Width In Binary Tree](https://www.codingninjas.com/codestudio/problems/maximum-width-in-binary-tree_8230710?challengeSlug=striver-sde-challenge) | Solution |
+
+
+## DAY 18
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 117    | Binary Tree    | [Level Order Traversal](https://www.codingninjas.com/codestudio/problems/level-order-traversal_8230716?challengeSlug=striver-sde-challenge) | Solution  |
+| 118    | Binary Tree    | [Height of the Binary Tree From Inorder and Level Order Traversal](https://www.codingninjas.com/codestudio/problems/height-of-the-binary-tree-from-inorder-and-level-order-traversal_8230730?challengeSlug=striver-sde-challenge) | Solution  |
+| 119    | Binary Tree    | [Diameter Of Binary Tree](https://www.codingninjas.com/codestudio/problems/diameter-of-binary-tree_8230762?challengeSlug=striver-sde-challenge) | Solution  |
+| 120    | Binary Tree    | [Is Height Balanced Binary Tree](https://www.codingninjas.com/codestudio/problems/is-height-balanced-binary-tree_8230771?challengeSlug=striver-sde-challenge) | Solution  |
+| 121   | Binary Tree    | [LCA Of Binary Tree](https://www.codingninjas.com/codestudio/problems/lca-of-binary-tree_8230760?challengeSlug=striver-sde-challenge) | Solution  |
+| 122    | Binary Tree    | [Check Identical Trees](https://www.codingninjas.com/codestudio/problems/check-identical-trees_8230719?challengeSlug=striver-sde-challenge) | Solution |
+| 123   | Binary Tree    | [Binary Tree Zigzag Traversal](https://www.codingninjas.com/codestudio/problems/binary-tree-zigzag-traversal_8230796?challengeSlug=striver-sde-challenge) | Solution  |
+| 124    | SBinary Tree    | [Boundary Traversal of Binary Tree](https://www.codingninjas.com/codestudio/problems/boundary-traversal-of-binary-tree_8230712?challengeSlug=striver-sde-challenge) | Solution |
+
+
+## DAY 19
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 125    | Binary Tree    | [Maximum Path Sum Between Two Leaves](https://www.codingninjas.com/codestudio/problems/maximum-path-sum-between-two-leaves_8230713?challengeSlug=striver-sde-challenge) | Solution  |
+| 126    | Binary Tree    | [Construct Binary Tree From Inorder and Preorder Traversal](https://www.codingninjas.com/codestudio/problems/construct-binary-tree-from-inorder-and-preorder-traversal_8230759?challengeSlug=striver-sde-challenge) | Solution  |
+| 127    | Binary Tree    | [Construct Binary Tree from Inorder and Postorder Traversal](https://www.codingninjas.com/codestudio/problems/construct-binary-tree-from-inorder-and-postorder-traversal_8230837?challengeSlug=striver-sde-challenge) | Solution  |
+| 128    | Binary Tree    | [Symmetric Tree](https://www.codingninjas.com/codestudio/problems/symmetric-tree_8230686?challengeSlug=striver-sde-challenge) | Solution  |
+| 129   | Binary Tree    | [Flatten Binary Tree to Linked List](https://www.codingninjas.com/codestudio/problems/flatten-binary-tree-to-linked-list_8230817?challengeSlug=striver-sde-challenge) | Solution  |
+| 130    | Binary Tree    | [Invert a Binary Tree](https://www.codingninjas.com/codestudio/problems/invert-a-binary-tree_8230838?challengeSlug=striver-sde-challenge) | Solution |
+| 131   | Binary Tree    | [Children Sum Property](https://www.codingninjas.com/codestudio/problems/children-sum-property_8230711?challengeSlug=striver-sde-challenge) | Solution  |
+
+
+## DAY 20
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 132    | Binary Search Tree    | [Connect Nodes at Same Level](https://www.codingninjas.com/codestudio/problems/connect-nodes-at-same-level_8230790?challengeSlug=striver-sde-challenge) | Solution  |
+| 133    | Binary Search Tree    | [Search In BST](https://www.codingninjas.com/codestudio/problems/search-in-bst_8230841?challengeSlug=striver-sde-challenge) | Solution  |
+| 134    | Binary Search Tree    | [Convert Sorted Array to BST](https://www.codingninjas.com/codestudio/problems/convert-sorted-array-to-bst_8230836?challengeSlug=striver-sde-challenge) | Solution  |
+| 135    | Binary Search Tree    | [Construct BST from Preorder Traversal](https://www.codingninjas.com/codestudio/problems/construct-bst-from-preorder-traversal_8230850?challengeSlug=striver-sde-challenge) | Solution  |
+| 136   | Binary Search Tree    | [Partial BST](https://www.codingninjas.com/codestudio/problems/partial-bst_8230723?challengeSlug=striver-sde-challenge) | Solution  |
+| 137    | Binary Search Tree    | [LCA of Two Nodes In A BST](https://www.codingninjas.com/codestudio/problems/lca-of-two-nodes-in-a-bst_8230778?challengeSlug=striver-sde-challenge) | Solution |
+| 138   | Binary Search Tree    | [Predecessor And Successor In BST](https://www.codingninjas.com/codestudio/problems/predecessor-and-successor-in-bst_8230742?challengeSlug=striver-sde-challenge) | Solution  |
+
+
+## DAY 21
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 139    | Binary Search Tree    | [Floor in BST](https://www.codingninjas.com/codestudio/problems/floor-in-bst_8230753?challengeSlug=striver-sde-challenge) | Solution  |
+| 140    | Binary Search Tree    | [Ceil from BST](https://www.codingninjas.com/codestudio/problems/ceil-from-bst_8230754?challengeSlug=striver-sde-challenge) | Solution  |
+| 141    | Binary Search Tree    | [Kth smallest node in BST](https://www.codingninjas.com/codestudio/problems/kth-smallest-node-in-bst_8230751?challengeSlug=striver-sde-challenge) | Solution  |
+| 142    | Binary Search Tree    | [K-th largest Number BST](https://www.codingninjas.com/codestudio/problems/k-th-largest-number-bst_8230750?challengeSlug=striver-sde-challenge) | Solution  |
+| 143   | Binary Search Tree    | [Pair Sum in BST](https://www.codingninjas.com/codestudio/problems/pair-sum-in-bst_8230756?challengeSlug=striver-sde-challenge) | Solution  |
+| 144    | Binary Search Tree    | [BST Iterator](https://www.codingninjas.com/codestudio/problems/bst-iterator_8230815?challengeSlug=striver-sde-challenge) | Solution |
+| 145   | Binary Search Tree    | [Size of Largest BST in Binary Tree](https://www.codingninjas.com/codestudio/problems/size-of-largest-bst-in-binary-tree_8230743?challengeSlug=striver-sde-challenge) | Solution  |
+| 146   | Binary Search Tree    | [Serialize and Deserialize Binary Tree](https://www.codingninjas.com/codestudio/problems/serialize-and-deserialize-binary-tree_8230748?challengeSlug=striver-sde-challenge) | Solution  |
+
+## DAY 22
+
+| S.No. | Topics    | Problems  | Solutions |
+| ---- | --------- | --------- | --------- |
+| 147    | Binary Trees[Miscellaneous]    | [Convert A Given Binary Tree To Doubly Linked List](https://www.codingninjas.com/codestudio/problems/convert-a-given-binary-tree-to-doubly-linked-list_8230744?challengeSlug=striver-sde-challenge) | Solution  |
+| 148    | Binary Trees[Miscellaneous]    | [Median in a stream](https://www.codingninjas.com/codestudio/problems/median-in-a-stream_8230765?challengeSlug=striver-sde-challenge) | Solution  |
+| 149    | Binary Trees[Miscellaneous]    | [Kth Largest Element In A Stream](https://www.codingninjas.com/codestudio/problems/kth-largest-element-in-a-stream_8230728?challengeSlug=striver-sde-challenge) | Solution  |
+| 150    | Binary Trees[Miscellaneous]    | [Count Distinct Element in Every K Size Window](https://www.codingninjas.com/codestudio/problems/count-distinct-element-in-every-k-size-window_8230749?challengeSlug=striver-sde-challenge) | Solution  |
+| 151   | Binary Trees[Miscellaneous]    | [Kth largest element in the unsorted array](https://www.codingninjas.com/codestudio/problems/kth-largest-element-in-the-unsorted-array_8230740?challengeSlug=striver-sde-challenge) | Solution  |
+| 152    | Binary Trees[Miscellaneous]    | [Flood Fill Algorithm](https://www.codingninjas.com/codestudio/problems/flood-fill-algorithm_8230806?challengeSlug=striver-sde-challenge) | Solution |
+
